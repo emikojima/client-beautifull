@@ -3,13 +3,15 @@ $(function(){
 attachEventListeners();
 })
 
+let student = students[0]
+
 const clear = () => {
   $('#hero').empty();
   $('.student-name').empty();
   $('#copy').empty();
 }
+
 const content = () => {
-  alert(`${student.name}`);
   clear()
   $('#hero').append(`${student.hero} `)
   $('.student-name').append(`<h3> ${student.name} </h3>`)
@@ -25,3 +27,5 @@ function attachEventListeners() {
   content();
 })
 };
+
+content()
