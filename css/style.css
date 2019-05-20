@@ -1,0 +1,60 @@
+body {
+  background-color: #e3e3e3;
+}
+
+#container {
+  width: 960px;
+  margin: auto;
+  background-color: #ffffff;
+  padding: 5px;
+}
+
+#container h1 {
+  margin: auto;
+  font-size: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 30px 0 20px 0;
+}
+
+#profiles {
+/* -webkit-column-count: 6;
+-moz-column-count: 6;
+column-count: 6; */
+  width: 960px;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.student-photo img {
+  width: 150px;
+  height: auto;
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+.active img {
+  border: 3px #4c8dc2 solid;
+  box-sizing: border-box;
+  -webkit-filter: none; /* Safari 6.0 - 9.0 */
+  filter: none;
+}
+
+#hero img {
+  margin: 10px auto;
+}
+
+#copy {
+  padding: 20px;
+}
+
+#container h3 {
+text-transform: none !important;
+}
+
+#container h4 {
+  color: #003366;
+  text-transform: title;
+  padding: 0 0 30px 0;
+}

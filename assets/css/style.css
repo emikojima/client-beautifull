@@ -1,0 +1,13 @@
+
+#student-images-row {
+  column-count: 6;
+  position: flex;
+}
+
+.student1, .student2, .student3, .student4 .student5, .student6  {
+  width: 100%;
+  border: solid;
+  float: left;
+  border-color: pink;
+  height: 100px;
+}
