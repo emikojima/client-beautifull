@@ -1,10 +1,11 @@
 students = [
-{name: 'Tierra Baird',
-id: 0,
-avatar: `<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_304x316.jpg" alt="Tierra Baird"><br />
+  {
+    name: 'Tierra Baird',
+    id: 0,
+    avatar: `<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_304x316.jpg" alt="Tierra Baird"><br />
 <h4>Tierra<br />Baird</h4>`,
-hero: '<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_960x350.jpg" alt="Tierra Baird">',
-bio: `<h3>How did you first come to Red Cloud?</h3>
+    hero: '<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_960x350.jpg" alt="Tierra Baird">',
+    bio: `<h3>How did you first come to Red Cloud?</h3>
 <p>I was born in San Diego; my mom, who is from the Navajo Nation, was in the Navy and my dad, who is Lakota, was in the Marines. When I was 4 or 5, we moved to South Dakota, and I went to first through fourth grade in Rapid City, and then we moved to the [Pine Ridge] reservation. I went to Our Lady of Lourdes (OLL), Red Cloud's sister school, for a year, but then my parents got divorced and&hellip;and I moved back and forth between South Dakota and New Mexico for a while.</p>
 <p>There were a lot of difficult transitions at that time, especially with the divorce. But I came back to OLL for 6th grade, stayed through 8th grade, and then came to Red Cloud for all of high school. I feel more comfortable and confident now, being at Red Cloud. Looking back at being a freshman, and reflecting on that time, I can see the slow transition to the person I am now. And I'm pretty proud of that.</p>
 <h3>What filled your days here, and what was important to you?</h3>
@@ -21,14 +22,14 @@ bio: `<h3>How did you first come to Red Cloud?</h3>
 <p>How did the Red Cloud community support you in your path to college?
 Without Red Cloud, I probably wouldn't have come this far. I had so many teachers double and triple check my essays, to make sure everything was perfect. And January Tobacco [Red Cloud's Director of Student Advancement and Alumni Support] is a Stanford alumni, and she looked over my entire application and provided so much help with the Stanford process. I'm so thankful for her.</p>
 <h3>Looking back, what advice would you give to your younger self?</h3>
-<p>I would say to my younger self that your only competition is yourself. Everyone else is in their own race. If you're at times lonely, because everyone will be, you have to recognize that this whole time, you have yourself and that's where you have to find comfort.</p>`},
-
-{name: 'Nevra Murdock',
-id: 1,
-avatar: `<img src="https://www.redcloudschool.org/image/dd2019/nevra_murdock_304x316.jpg" alt="Nevra Murdock"><br />
+<p>I would say to my younger self that your only competition is yourself. Everyone else is in their own race. If you're at times lonely, because everyone will be, you have to recognize that this whole time, you have yourself and that's where you have to find comfort.</p>`
+  }, {
+    name: 'Nevra Murdock',
+    id: 1,
+    avatar: `<img src="https://www.redcloudschool.org/image/dd2019/nevra_murdock_304x316.jpg" alt="Nevra Murdock"><br />
 <h4>Nevra<br />Murdock</h4>`,
-hero: '<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_960x350.jpg" alt="Nevra Murdock">',
-bio: `<h3>How did you first come to Red Cloud?</h3>
+    hero: '<img src="https://www.redcloudschool.org/image/dd2019/nevra_murdock_960x350.jpg" alt="Nevra Murdock">',
+    bio: `<h3>How did you first come to Red Cloud?</h3>
 <P>I grew up in Pine Ridge and I've been at Red Cloud since preschool. I've never been at any other school. There are many people here I've known since I was 4, and so with graduation so close, I'm nervous because I'm not going to have all those people who've been with me for so long. But I'm also excited, because it will be a whole different journey and experience.</P>
 <h3>What or who at Red Cloud made a difference in your life?</h3>
 <p>In middle school, my teacher Gretchen made a huge impression on me. She was always focused on me, and she had such a spark for life. She was also the first one to get me interested in science, which is what I want to study and go into in the future. I also look up to Katie Montez, my high school science teacher. I love how comfortable she is with herself and how confident, especially in science. Everything in our biology class is just so interesting. It's what I wrote about in my college essays &mdash; it's the study of life, and you can go into so many different fields with it.</p>
@@ -41,32 +42,32 @@ bio: `<h3>How did you first come to Red Cloud?</h3>
 <p>How did the Red Cloud community support you in your path to college?
 Since freshman year, our teachers have been instilling in us that we need to focus on our grades, and to prepare for the ACT. They've been preparing us to succeed. In our classes they go the extra mile, because they want us to be prepared for college. In my AP calculus and AP literature classes, they are really honest about how it will be next year.</p>
 <h3>Looking back, what advice would you give to your younger self?</h3>
-<p>One of the biggest things is to always listen in your Lakota studies class, because at the end of the day, that's your identity. All the way since preschool, I still remember all my Lakota studies classes, and they have always been the most important to me."</p>`},
-
-{name: 'Griffey Big Crow',
-id: 2,
-avatar: `<img src="https://www.redcloudschool.org/image/dd2019/nevra_murdock_304x316.jpg" alt="Griffey Big Crow"><br />
-<h4>Griffey<br />Big Crow</h4>`,
-hero: '<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_960x350.jpg" alt="Griffey Big Crow">',
-bio: `<h3>How did you first come to Red Cloud?</h3>
-<p>I've lived in Pine Ridge whole life and came to Red Cloud in 5th grade, and have been here ever since.</p>
-<h3>What filled your days here, and what was important to you?</h3>
-<p>I really loved the basketball program, and I've been a part of it since I was in 8th grade. I got hurt this year and wasn't able to play, but it was a big part of my life.</p>
-<h3>What or who at Red Cloud made a difference in your life?</h3>
-<p>I've made so many friends through the years, especially through basketball. And I'm still very close with my coaches, even though I wasn't able to play this season.</p>
-<h3>What impact did studying Lakota language have on you?</h3>
-<p>My grandma is fluent in Lakota, so I can understand it. But the Lakota Language Program here has really helped me with the talking part. It really helped me be more comfortable speaking it. Growing up, I understood what my grandmother was saying, but now I'm able to speak to her a little bit.</p>
-<h3>Talk about your plans for next year!</h3>
-<p>Ever since I was 10 years old, I've wanted to go into the military, so I'll be joining this summer. When I was little, I always pretended to be a paramedic, and always wanted to be a combat medic, and that's what I plan on pursuing.</p>
-<h3>Looking back, what advice would you give to your younger self?</h3>
-<p>Staying active should be a priority! Keep your head on your shoulders, be your own person. Don't let other people be your happiness, be your own!</p>`},
-
-{name: 'Dorian Baldes',
-  id: 3,
-avatar: `<img src="https://www.redcloudschool.org/image/dd2019/dorian_baldes_304x316.jpg" alt="Dorian Baldes"><br />
+<p>One of the biggest things is to always listen in your Lakota studies class, because at the end of the day, that's your identity. All the way since preschool, I still remember all my Lakota studies classes, and they have always been the most important to me."</p>`
+  }, {
+    name: 'Emonee Pourier',
+    id: 2,
+    avatar: `<img src="https://www.redcloudschool.org/image/dd2019/emonee_pourier_304x316.jpg" alt="Emonee Pourier"><br />
+  <h4>Emonee<br />Pourier</h4>`,
+    hero: '<img src="https://www.redcloudschool.org/image/dd2019/emonee_pourier_960x350.jpg" alt="Emonee Pourier">',
+    bio: `<h3>How did you first come to Red Cloud?</h3>
+  <p>I grew up in Rocky Ford, about an hour away from Red Cloud. I attended another school my freshman year, and then came to Red Cloud for the last three years of high school.</p>
+  <h3>What filled your days here, and what was important to you?</h3>
+  <p>I'm very into sports, especially volleyball and basketball. Unfortunately, before basketball season this year I tore my ACL and had to sit out the whole season. Despite that, I have the best teammates ever, and we all just work so well together.</p>
+  <h3>What or who at Red Cloud made a difference in your life?</h3>
+  <p>I've really enjoyed the people that I see every day, and particularly the teachers have helped me to understand, and made it easy for me to learn. I love English and writing, and so Laree, my creative writing and journalism teacher, and Jac, our English teacher, have had a big impact.</p>
+  <h3>What's been the biggest challenge you've overcome?</h3>
+  <p>Waking up every morning! I live very far from campus, have to wake up very early to get here on time. But my last school was too easy, and I wanted a challenge. My older sister and my dad both went to Red Cloud, and my dad really wanted me to come here to get a good education.</p>
+  <h3>Talk about your plans for next year!</h3>
+  <p>I was lucky enough to sign with United Tribes Technical College to play basketball there! I'll start in general studies, but I'm really interested in studying psychology, and learning about the brain and how we think. I could imagine being a social worker or professor some day.</p>
+  <h3>Looking back, what advice would you give to your younger self?</h3>
+  <p>Stay on top of your work, because it gets overwhelming when you fall behind, and more difficult to stay motivated.</p>`
+  }, {
+    name: 'Dorian Baldes',
+    id: 3,
+    avatar: `<img src="https://www.redcloudschool.org/image/dd2019/dorian_baldes_304x316.jpg" alt="Dorian Baldes"><br />
 <h4>Doian<br />Baldes</h4>`,
-hero: '<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_960x350.jpg" alt="Dorian Baldes">',
-bio: `<h3>Why was Red Cloud the right place for you?</h3>
+    hero: '<img src="https://www.redcloudschool.org/image/dd2019/dorian_baldes_960x350.jpg" alt="Dorian Baldes">',
+    bio: `<h3>Why was Red Cloud the right place for you?</h3>
 <p>I've been at Red Cloud for five years, and for me, it's been the right place because of the language and culture. In Lakota culture, there are many sides, including dancing and ceremonies, and our unique history. I went to school off-reservation for along time, and I think that it's difficult in public schools to really fully put yourself out there, with your beliefs in spiritual practices like ours.</p>
 <p>Here, I'm able to speak Lakota in the hallways with friends. It's become something that happens every day, and it's completely natural. That's what I like about Red Cloud. It provided the avenue for that to happen. The environment is really supportive, especially now, as we're moving more and more toward our culture and language.</p>
 <p>What opportunities have been most important to you in these five years?
@@ -79,14 +80,32 @@ Red Cloud has a pretty well rounded education; it's not just focused on academic
 <p>I'm still in the process of deciding. I've been accepted to the South Dakota School of Mines, but I think I may do the summer program, the Indian University of North America, at the Crazy Horse Memorial. I hope to attend the University of North Dakota's Lakota Language program, but first I need to have a two-year associate degree to qualify. So I plan to to take advantage of the education we have here on the reservation and take classes at Oglala Lakota College.</p>
 <p>I definitely want to teach the Lakota language when I'm older. Especially for kids growing up on the reservation, we really do feel the effects of intergenerational trauma. But being able to speak in Lakota, and to share in community with other Lakota people, in the way that our ancestors did for such a long time &mdash; it's really powerful. That's where the Lakota people found their strength &mdash; in the family and community circle, that way of life. It's a spiritual path rather than just an academic one. But that's another reason that Red Cloud has helped; it incorporates both the spiritual and the academic into education.</p>
 <h3>Looking back, what advice would you give to your younger self?</h3>
-<p>I would say, don't be afraid to open your heart to the world. Don't be afraid to reach out to the things that call you, to step out of the line and truly be yourself. There's a quote that says the farthest journey a person can take is from their head to their heard. And in a way, that's what Red Cloud is trying to do with its education, to let us open both our minds and hearts through learning.</p>`},
-
-{name: 'Morgan Two Bulls',
-id: 4,
-avatar: `<img src="https://www.redcloudschool.org/image/dd2019/morgan_two_bulls_304x316.jpg" alt="Morgan Two Bulls"><br />
+<p>I would say, don't be afraid to open your heart to the world. Don't be afraid to reach out to the things that call you, to step out of the line and truly be yourself. There's a quote that says the farthest journey a person can take is from their head to their heard. And in a way, that's what Red Cloud is trying to do with its education, to let us open both our minds and hearts through learning.</p>`
+  }, {
+    name: 'Griffey Big Crow',
+    id: 4,
+    avatar: `<img src="https://www.redcloudschool.org/image/dd2019/griffey_big_crow_304x316.jpg" alt="Griffey Big Crow"><br />
+  <h4>Griffey<br />Big Crow</h4>`,
+    hero: '<img src="https://www.redcloudschool.org/image/dd2019/griffey_big_crow_960x350.jpg" alt="Griffey Big Crow">',
+    bio: `<h3>How did you first come to Red Cloud?</h3>
+  <p>I've lived in Pine Ridge whole life and came to Red Cloud in 5th grade, and have been here ever since.</p>
+  <h3>What filled your days here, and what was important to you?</h3>
+  <p>I really loved the basketball program, and I've been a part of it since I was in 8th grade. I got hurt this year and wasn't able to play, but it was a big part of my life.</p>
+  <h3>What or who at Red Cloud made a difference in your life?</h3>
+  <p>I've made so many friends through the years, especially through basketball. And I'm still very close with my coaches, even though I wasn't able to play this season.</p>
+  <h3>What impact did studying Lakota language have on you?</h3>
+  <p>My grandma is fluent in Lakota, so I can understand it. But the Lakota Language Program here has really helped me with the talking part. It really helped me be more comfortable speaking it. Growing up, I understood what my grandmother was saying, but now I'm able to speak to her a little bit.</p>
+  <h3>Talk about your plans for next year!</h3>
+  <p>Ever since I was 10 years old, I've wanted to go into the military, so I'll be joining this summer. When I was little, I always pretended to be a paramedic, and always wanted to be a combat medic, and that's what I plan on pursuing.</p>
+  <h3>Looking back, what advice would you give to your younger self?</h3>
+  <p>Staying active should be a priority! Keep your head on your shoulders, be your own person. Don't let other people be your happiness, be your own!</p>`
+  }, {
+    name: 'Morgan Two Bulls',
+    id: 5,
+    avatar: `<img src="https://www.redcloudschool.org/image/dd2019/morgan_two_bulls_3S04x316.jpg" alt="Morgan Two Bulls"><br />
 <h4>Morgan<br />Two Bulls</h4>`,
-hero: '<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_960x350.jpg" alt="Morgan Two Bulls">',
-bio: `<h3>How did you first come to Red Cloud?</h3>
+    hero: '<img src="https://www.redcloudschool.org/image/dd2019/morgan_two_bulls_960x350.jpg" alt="Morgan Two Bulls">',
+    bio: `<h3>How did you first come to Red Cloud?</h3>
 <p>I grew up on a ranch on the plains, out in the country. That's my sanctuary from all the negativity around the reservation, and it's still my home. I came to Red Cloud in the fall of 2015, when I started to get more into being a student. I was able to be more spiritual, to make more friends, and just to be more myself.</p>
 <h3>What filled your days here, and what was important to you?</h3>
 <p>Being able to speak in Lakota. When I was younger, my parents and grandparents would speak in Lakota. If I did something bad, they would yell at me in Lakota, and I would understand. But then when I came to Red Cloud, it enhanced my understanding. More gained more knowledge of the language, beyond what I just absorbed as a kid.</p>
@@ -97,22 +116,6 @@ bio: `<h3>How did you first come to Red Cloud?</h3>
 <h3>What would you like to do beyond college?</h3>
 <p>I want to be a teacher, in high school or in college. With a degree in cultural anthropology, I'll be able to teach the history of the Lakota people. I'll be able to give knowledge to those who don't understand, or who never had the opportunity to learn. Decolonization is the main point. If you're mixed blood or full blood, it doesn't matter. If you're Lakota, you need to know your identity.</p>
 <h3>Looking back, what advice would you give to your younger self?</h3>
-<p>I would say, don't be scared of the things that are going to come, because in reality there are always going to be people right behind you. If you are stuck, the best way forward is to pray and not look back. Don't look back until you've achieved your goal, when you can say &mdash; I made it through, not by myself but with the people who cared and who believed.</p>`},
-
-{name: 'Emonee Pourier',
-  id: 5,
-avatar: `<img src="https://www.redcloudschool.org/image/dd2019/morgan_two_bulls_304x316.jpg" alt="Emonee Pourier"><br />
-<h4>Emonee<br />Pourier</h4>`,
-hero: '<img src="https://www.redcloudschool.org/image/dd2019/tierra_baird_960x350.jpg" alt="Emonee Pourier">',
-bio: `<h3>How did you first come to Red Cloud?</h3>
-<p>I grew up in Rocky Ford, about an hour away from Red Cloud. I attended another school my freshman year, and then came to Red Cloud for the last three years of high school.</p>
-<h3>What filled your days here, and what was important to you?</h3>
-<p>I'm very into sports, especially volleyball and basketball. Unfortunately, before basketball season this year I tore my ACL and had to sit out the whole season. Despite that, I have the best teammates ever, and we all just work so well together.</p>
-<h3>What or who at Red Cloud made a difference in your life?</h3>
-<p>I've really enjoyed the people that I see every day, and particularly the teachers have helped me to understand, and made it easy for me to learn. I love English and writing, and so Laree, my creative writing and journalism teacher, and Jac, our English teacher, have had a big impact.</p>
-<h3>What's been the biggest challenge you've overcome?</h3>
-<p>Waking up every morning! I live very far from campus, have to wake up very early to get here on time. But my last school was too easy, and I wanted a challenge. My older sister and my dad both went to Red Cloud, and my dad really wanted me to come here to get a good education.</p>
-<h3>Talk about your plans for next year!</h3>
-<p>I was lucky enough to sign with United Tribes Technical College to play basketball there! I'll start in general studies, but I'm really interested in studying psychology, and learning about the brain and how we think. I could imagine being a social worker or professor some day.</p>
-<h3>Looking back, what advice would you give to your younger self?</h3>
-<p>Stay on top of your work, because it gets overwhelming when you fall behind, and more difficult to stay motivated.</p>`}]
+<p>I would say, don't be scared of the things that are going to come, because in reality there are always going to be people right behind you. If you are stuck, the best way forward is to pray and not look back. Don't look back until you've achieved your goal, when you can say &mdash; I made it through, not by myself but with the people who cared and who believed.</p>`
+},
+]
